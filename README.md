@@ -31,8 +31,8 @@ The PayEx payment provider for EPiServer Commerce supports the following payment
 
 ##[[↑]](#toc) <a name='prereq'>Prerequisites</a>
 
-- EPiServer.CMS version 7.6.3 or higher
-- EPiServer.Commerce version 7.6.1 or higher
+- EPiServer.CMS version 8.0.0 or higher
+- EPiServer.Commerce version 8.0.0 or higher
 - .NET Framework 4.5 or higher
 - You should also take a look at the [PayEx prerequisites](http://www.payexpim.com/quick-guide/prerequisites/)
 
